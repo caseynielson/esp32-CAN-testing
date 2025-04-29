@@ -4,11 +4,13 @@
 Tested with a Scanguage-D
 
 Scangauge-D RJ45 – right to left pin positions
-1: black - ground
-2: brown – J1939+ (CAN+)
-3: red – J1939- (CAN-)
-4: orange
-5: yellow
-6: <empty>
-7: <empty>
-8: green – 12+ power
+<ol>
+  <li>black - ground</li>
+  <li>brown – J1939+ (CAN+)</li>
+  <li>red – J1939- (CAN-)</li>
+  <li>orange</li>
+  <li>yellow</li>
+  <li>not connected</li>
+  <li>not connected</li>
+  <li>green – 12+ power</li>
+</ol>
